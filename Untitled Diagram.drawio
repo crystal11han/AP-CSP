@@ -1,9 +1,61 @@
-<mxfile host="app.diagrams.net" modified="2023-10-03T16:29:16.493Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="21.8.2" etag="i1AsoA3APyKpYXaSAw9U" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-03T16:44:31.245Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="dwNn0oT5QDAZoMBMQpz2" version="21.8.2" type="github">
   <diagram name="Page-1" id="FnAs1mtw1cchniEmqdbX">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="758" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
+        <object label="" Flowchard="" id="0">
+          <mxCell />
+        </object>
         <mxCell id="1" parent="0" />
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9WO4Rzq891tNkGLWGvaP-1" target="9WO4Rzq891tNkGLWGvaP-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-1" value="&amp;nbsp;Find someone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="90" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9WO4Rzq891tNkGLWGvaP-2" target="9WO4Rzq891tNkGLWGvaP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9WO4Rzq891tNkGLWGvaP-2" target="9WO4Rzq891tNkGLWGvaP-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9WO4Rzq891tNkGLWGvaP-2" target="9WO4Rzq891tNkGLWGvaP-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-20" value="They say yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9WO4Rzq891tNkGLWGvaP-13">
+          <mxGeometry x="-0.0571" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-2" value="As for their number" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="200" width="142" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-6" value="Leave the conversation sad" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="587" y="235" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-9" value="they say no" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="496" y="240" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9WO4Rzq891tNkGLWGvaP-4" target="9WO4Rzq891tNkGLWGvaP-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-4" value="Take out phone" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9WO4Rzq891tNkGLWGvaP-14" target="9WO4Rzq891tNkGLWGvaP-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-14" value="Create a new contact" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9WO4Rzq891tNkGLWGvaP-16" target="9WO4Rzq891tNkGLWGvaP-18">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-16" value="Add what they say their phone number is as the phone number" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9WO4Rzq891tNkGLWGvaP-18" value="Leave the conversation happy" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="365" y="640" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
