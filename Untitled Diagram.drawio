@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-17T16:39:02.163Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="hw2OcyNek4lPSplaiCrD" version="22.0.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-17T16:41:46.438Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="x8CAzJO6ggg_pdoeYCt2" version="22.0.4" type="github">
   <diagram name="Page-1" id="J_uxx44ZMM9hjtvUiRub">
     <mxGraphModel dx="1687" dy="892" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -65,7 +65,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-8" value="Does site have less than 3 letters" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="190" width="130" height="126.25" as="geometry" />
+          <mxGeometry x="410" y="180" width="130" height="126.25" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTvYhVMCZxCB8CiYdLS1-12" target="RTvYhVMCZxCB8CiYdLS1-21">
           <mxGeometry relative="1" as="geometry">
@@ -76,7 +76,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-12" value="Capitalize letters 1,3 of the site name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="223.125" width="120" height="60" as="geometry" />
+          <mxGeometry x="610" y="200.01" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-50" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTvYhVMCZxCB8CiYdLS1-21" target="RTvYhVMCZxCB8CiYdLS1-49">
           <mxGeometry relative="1" as="geometry">
@@ -276,22 +276,22 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-94" value="Add final amount to pswrd" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="85" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="85" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-105" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTvYhVMCZxCB8CiYdLS1-102" target="RTvYhVMCZxCB8CiYdLS1-104">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-102" value="Count amount of characters in pswrd" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="290" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-107" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="RTvYhVMCZxCB8CiYdLS1-104" target="RTvYhVMCZxCB8CiYdLS1-106">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-104" value="Add that amount to pswrd" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="1080" width="120" height="60" as="geometry" />
+          <mxGeometry x="470" y="1110" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RTvYhVMCZxCB8CiYdLS1-106" value="End" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="1070" width="120" height="80" as="geometry" />
+          <mxGeometry x="640" y="1100" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
